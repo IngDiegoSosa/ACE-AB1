@@ -110,7 +110,8 @@ A folder with seven text files:
 
 
 # Acknowledgements
-We acknowledge contributions from Dra. Gabriela Olmedo-Álvarez, Africa Islas for their feedback on the applicability and evaluation of the script.
+We acknowledge contributions from Dra. Gabriela Olmedo-Álvarez, MSc. Africa Islas for their feedback on the applicability and evaluation of the script.
+GRA was supported by Postdoctoral Conahcyt fellowship. 
 
 # References
 1.	Daisley, B., Vancuren, S. J., Brettingham, D. J., Wilde, J., Renwick, S., Macpherson, C. V., ... & Allen-Vercoe, E. (2024). isolateR: an R package for generating microbial libraries from Sanger sequencing data. Bioinformatics, 40(7), btae448. https://doi.org/10.1093/bioinformatics/btae448.
