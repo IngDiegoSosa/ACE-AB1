@@ -1,6 +1,8 @@
 # ACE-AB1
  **Automated Comprehensive Editing and BLAST-based Assignment for AB1 Files**
 
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14556246.svg)](https://doi.org/10.5281/zenodo.14556246)
+ 
 ### Authors:
 **Name: Diego Sosa-Reyes**
 - ORCID: 0009-0000-9952-5963
@@ -116,5 +118,3 @@ We acknowledge contributions from Dra. Gabriela Olmedo-Álvarez, Africa Islas fo
 3.	Ewing, B., Hillier, L., Wendl, M. C., & Green, P. (1998). Base-calling of automated sequencer traces using Phred. I. Accuracy assessment. Genome research, 8(3), 175-185.
 4.	Naik, P., Naik, G., & Patil, M. (2022). Conceptualizing Python in Google COLAB. India: Shashwat Publication.
 5.	Arindrarto, W. (2011). abifpy [Software]. Retrieved from https://github.com/bow/abifpy November 22, 2024.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14556246.svg)](https://doi.org/10.5281/zenodo.14556246)
